@@ -1,0 +1,9 @@
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\obj\Debug\CsharpDBConnect.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\bin\Debug\CsharpDBConnect.dll.config
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\bin\Debug\CsharpDBConnect.dll
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\bin\Debug\CsharpDBConnect.pdb
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\obj\Debug\CsharpDBConnect.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\obj\Debug\CsharpDBConnect.csproj.CopyComplete
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\obj\Debug\CsharpDBConnect.dll
+C:\Users\usuario\Downloads\git\SOlocu\DB Hub\Projetos\CSharpDB\obj\Debug\CsharpDBConnect.pdb

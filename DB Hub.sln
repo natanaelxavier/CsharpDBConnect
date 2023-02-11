@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpDBConnect", "Projetos\CSharpDB\CsharpDBConnect.csproj", "{D3FF3066-2999-477B-9702-6AB8AE6EFC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Projetos\Examples\Examples.csproj", "{C120EBC2-3C82-4511-B89A-0CEABBA233A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FF3066-2999-477B-9702-6AB8AE6EFC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FF3066-2999-477B-9702-6AB8AE6EFC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FF3066-2999-477B-9702-6AB8AE6EFC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FF3066-2999-477B-9702-6AB8AE6EFC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C120EBC2-3C82-4511-B89A-0CEABBA233A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C120EBC2-3C82-4511-B89A-0CEABBA233A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C120EBC2-3C82-4511-B89A-0CEABBA233A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C120EBC2-3C82-4511-B89A-0CEABBA233A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7642399-20C0-47F2-AFD5-8B627A83BA1B}
+	EndGlobalSection
+EndGlobal

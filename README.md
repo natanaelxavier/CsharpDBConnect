@@ -1,4 +1,4 @@
-# Repositório de exemplos de conexão a bancos de dados com C#
+# Repositório de exemplo de conexão a bancos de dados com C#
 
 Este repositório apresenta exemplos de como conectar a diferentes bancos de dados usando a linguagem de programação C#. O exemplo contém como se conectar ao banco de dados relacional, Oracle. Porém, já utilizo com o SQL Server Também.
 
